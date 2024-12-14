@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Russ Savela's Notes on Learning German
 description: Some of the resources I've used to study German.
+github:
+  is-project-page: false
